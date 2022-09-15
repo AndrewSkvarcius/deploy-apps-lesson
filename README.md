@@ -35,7 +35,7 @@ A lesson for learning to build apps and deploy to a service like GH Pages or Net
     git add .
     git commit -m "Refactors resume page and stylesheet"
     git push origin main
-    ```
+    ```git add
 
 2.  Deploy your app on GH-Pages by selecting on your Github the main branch under `Settings --> Pages`, under Branch change the dropdown to the `main` branch, then click `Save` - navigate to the link provided, **OR**
 
